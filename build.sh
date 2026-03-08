@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#\!/usr/bin/env bash
 set -e
 
 # Install Python dependencies
@@ -10,4 +10,4 @@ cd ../frontend
 npm install
 npm run build
 
-echo "Build complete!"
+echo "Build complete\!"
