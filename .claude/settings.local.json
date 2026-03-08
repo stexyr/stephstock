@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-react-app . --template default)",
+      "Bash(npm install chart.js react-chartjs-2 axios react-markdown)",
+      "Bash(npm run build)",
+      "Bash(pip install -r requirements.txt)",
+      "Bash(pip3 --version)",
+      "Bash(python3 -m pip --version)",
+      "Bash(python -m pip --version)",
+      "Bash(py -m pip --version)",
+      "Bash(python -m pip install -r requirements.txt)",
+      "Bash(python -c \"from main import app; print\\(''Backend OK''\\)\")",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(python -c \":*)",
+      "Bash(python -c \"import fastapi; print\\(''fastapi ok''\\)\")",
+      "Bash(python -c \"print\\(''hello''\\)\")",
+      "Bash(py --version)",
+      "Bash(py -c \"print\\(''hello''\\)\")",
+      "Bash(py -m pip install -r requirements.txt)",
+      "Bash(py -c \"from main import app; print\\(''Backend OK''\\)\")",
+      "Bash(py -c \":*)",
+      "Bash(py -m pip install --upgrade yfinance)",
+      "WebFetch(domain:www.getblossom.io)",
+      "WebFetch(domain:www.blossomsocial.com)",
+      "Bash(py -c \"from main import app; print\\(''Backend OK \\(with static serving\\)''\\)\")"
+    ]
+  }
+}

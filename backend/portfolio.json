@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "shares": 100.0,
+    "avg_cost": 106.0
+  },
+  {
+    "ticker": "TCOM",
+    "name": "Trip.com Group Limited",
+    "shares": 20.0,
+    "avg_cost": 54.0
+  },
+  {
+    "ticker": "TME",
+    "name": "Tencent Music Entertainment Group",
+    "shares": 150.0,
+    "avg_cost": 13.5
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc",
+    "shares": 17.0,
+    "avg_cost": 295.0
+  },
+  {
+    "ticker": "UTG.L",
+    "name": "UNITE Group plc",
+    "shares": 150.0,
+    "avg_cost": 564.5
+  },
+  {
+    "ticker": "0700.HK",
+    "name": "Tencent Holdings Ltd",
+    "shares": 20.0,
+    "avg_cost": 510.0
+  }
+]
